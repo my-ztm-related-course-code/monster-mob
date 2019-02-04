@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a1fb3d7-80c2-48e0-ad5e-bcf723cba35b/deploy-status)](https://app.netlify.com/sites/monster-mob/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
