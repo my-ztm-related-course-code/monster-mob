@@ -12,6 +12,7 @@ const CardList = ({ monsters }) => {
                             id={monsters[i].id}
                             name = {monsters[i].name}
                             email = {monsters[i].email}
+                            phone = {monsters[i].phone}
                         />
                     );
                 })
